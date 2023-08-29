@@ -1,0 +1,25 @@
+.fondo {
+   height: 100vh;
+   width: 100vw;
+   background: #e44d;
+
+
+}
+
+.art {
+   height:400px; 
+   width:500px;
+   background: #fff;
+   opacity: 1;
+   border-radius: 20px;
+   transform: translate(450px,100px);
+
+
+}
+
+.text{
+  text-align: center;
+  padding:50px;
+  font-size: 20px
+
+}

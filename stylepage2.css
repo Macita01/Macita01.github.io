@@ -1,0 +1,175 @@
+
+
+.fondo {
+  background: #a44;
+  height: 100vh;
+  width: 100vw;
+  z-index: -1000000000;
+  transform:scale(1000000);
+
+
+}
+
+.header {
+   width: 100vw;
+   height: 100px;
+   background: #111;
+   position: fixed;
+   z-index: 200;
+
+
+}
+
+#p {
+  padding: 26px;
+  position:absolute;
+
+} 
+
+.menu {
+  position: absolute;
+  padding: 10px;
+  color:white;
+  height: 30px;
+  width:300px;
+  background: #222;
+  transform: translate(400px,50px);
+  text-align: center;
+  text-decoration: none;
+
+}
+
+.menu:hover {
+   background: #333;
+
+
+}
+
+.menu2 {
+  position: absolute;
+  padding: 10px;
+  color:white;
+  height: 30px;
+  width:300px;
+  background: #222;
+  transform: translate(723px,50px);
+  text-align: center;
+  text-decoration: none;
+
+}
+
+.menu2:hover {
+   background: #333;
+
+
+}
+
+.menu3 {
+  position: absolute;
+  padding: 10px;
+  color:white;
+  height: 30px;
+  width:300px;
+  background: #222;
+  transform: translate(1046px,50px);
+  text-align: center;
+  text-decoration: none;
+
+}
+
+.menu3:hover {
+   background: #333;
+
+
+}
+
+.art {
+   height:3300px;
+   width:700px;
+   background: #222;
+   position: absolute;
+   transform: translate(0px,100px);
+   z-index: 50;
+   border-radius: 20px;
+   margin: 40px;
+   padding:30px;
+   color: white;
+
+
+}
+
+.section {
+    height:450px;
+    width:500px;
+    background: #222;
+    z-index: 55;
+    position: absolute;
+    transform: translate(830px,140px);
+
+}
+
+.h2::selection {
+   background: #111;
+   color:#f26;
+
+
+}
+
+.section-menu {
+   height:430px; 
+   width:480px;
+   background: #fff;
+   margin: 10px;
+   border-radius: 7px;
+   position: absolute;
+
+
+
+}
+
+.art2 {
+ text-align: center;
+ margin: 20px
+
+
+
+
+}
+
+.art2::before {
+  content: "Esta página web fue creada por";
+
+}
+
+.art2::after {
+	content: "@macita_h";
+	background: #a799;
+
+
+}
+
+.art3 {
+   text-align: center;
+
+
+
+}
+
+.ig {
+  position: absolute;
+  margin: auto;
+  text-decoration: none;
+  transform: translate(195px,300px);
+  background: #ea4e;
+  padding-top: 10px;
+  padding-right:5px; 
+  padding-left:5px;
+  padding-bottom:10px; 
+  border-radius: 7px;
+  color: #000;
+}
+
+
+
+
+
